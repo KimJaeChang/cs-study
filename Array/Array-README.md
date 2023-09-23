@@ -51,3 +51,4 @@
   ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9be9730c-6c17-477b-b30b-af626d1bd473/118fe833-8f06-402c-9000-ffb66a328677/Untitled.png)
 
     - 5, 6, 7, 8 연산 
+    - 5, 6, 7, 8 연산
